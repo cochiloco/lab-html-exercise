@@ -82,10 +82,6 @@ form button {
   padding: 12px 18px;
 }
 
-.container-search-login > a {
-  color: black;
-}
-
 .nav-bar-links{
   min-width: 200px;
 }
@@ -188,41 +184,41 @@ h2 {
 
 .article2{
     font-family: 'Poppins';
-    font-size:14px;
-    width:700px;
+    font-size: 14px;
+    width: 700px;
 }
 
 #section3 {
-  display:flex;
-  flex-direction:column;
-  align-items:center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 h3 {
- color:red;
+ color: red;
  font-family: 'Poppins';
  font-size: 15px;
- font-weight:900;
+ font-weight: 900;
 }
 
 #section3 div{
-  display:flex;
-  flex-wrap:wrap;
+  display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
-  align-content:space-between;
+  align-content: space-between;
   margin-left: 150px;  
   margin-right: 150px; 
 }
 
 #section3 article{
-  display:flex;
-  flex-direction:column;
-  align-items:center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 #section3 p {
- font-size:14px;
- width:200px;
+ font-size: 14px;
+ width: 200px;
 }
 
 #section3 img {
